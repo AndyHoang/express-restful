@@ -2,6 +2,8 @@ _tmp
 journal
 local.0
 local.ns
+wsExpress.0
+wsExpress.ns
 mongod.lock
 express-experiment.ns
 express-experiment.0
